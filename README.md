@@ -1,1 +1,2 @@
-# computerscience
+# computer science
+I just made this for my friends so...
